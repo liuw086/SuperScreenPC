@@ -34,5 +34,19 @@ Important Notes:
 
 Thank you for using SuperScreen Computer Client. We are committed to continually improving our products to provide you with the best virtual reality SuperScreen interconnect experience.
 
-Download:
-https://github.com/liuw086/SuperScreenPC/releases/
+# How to Stream PC Screen to Quest headset
+1. Install SuperScreen Desktop Client to your PC
+To get it, click the button below. Support Windows、Mac 
+Download Now：https://github.com/liuw086/SuperScreenPC/releases
+
+2. Run SuperScreen.exe（Win） or SuperScreen App(Mac)
+This file was just downloaded in Step #1. No installation required, click to run directly.
+
+3. Allow network access
+The first time you run the SuperScreen PC app, Windows will ask if the app should be allowed to communicate on your network. Choose to Allow Access.
+
+4. Allow screen recording permission (Mac platform only)
+Go to System Settings->Privacy and Security->Screen Recording, enable Super Screen permission.
+
+5. Run SuperScreen on your Quest
+In VR, your desktop screen will be displayed in the remote desktop tab list, click to connect successfully
