@@ -32,3 +32,6 @@ Important Notes:
 * Stay updated with software updates for the latest features and performance improvements.
 
 Thank you for using SuperScreen Computer Client. We are committed to continually improving our products to provide you with the best virtual reality SuperScreen interconnect experience.
+
+Download:
+https://github.com/liuw086/SuperScreenPC/releases/
