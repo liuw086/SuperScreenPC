@@ -12,6 +12,7 @@ Key Features:
 4. Screen Sharing Resolution Adjustment:
     * Provides resolution adjustment options for screen sharing.
     * Users can select the appropriate resolution for sharing as needed.
+
 Features Under Development:
 1. Quest Controller Reverse Control for Computers:
     * Future support for controlling the computer using Quest controllers is in development.
