@@ -28,7 +28,7 @@ Open Source Software Used:
 * FFmpeg: Processes multimedia content, including screen recording and file format conversion, through FFmpeg.
 
 Important Notes:
-* Ensure that your computer and VR device are on the same local network.
+* Ensure that your computer and VR device are on the same local network. and that the Quest is on a 5 GHz Wi-Fi network.
 * The sharing experience may vary depending on the performance of different VR devices.
 * Stay updated with software updates for the latest features and performance improvements.
 
