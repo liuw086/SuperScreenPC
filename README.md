@@ -33,7 +33,7 @@ Important Notes:
 * Ensure that your computer and VR device are on the same local network. and that the Quest is on a 5 GHz Wi-Fi network.
 * The sharing experience may vary depending on the performance of different VR devices.
 * Stay updated with software updates for the latest features and performance improvements.
-* Platform support: Currently tested on window10/11, mac M1/M2, more system versions need to be verified
+* Platform support: Currently tested on window10/11, mac M1/M2 (10.14+), more system versions need to be verified
 
 Thank you for using SuperScreen Computer Client. We are committed to continually improving our products to provide you with the best virtual reality SuperScreen interconnect experience.
 
