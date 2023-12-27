@@ -1,4 +1,6 @@
 # SuperScreen Computer Client
+![screenshot-20231227-150926](https://github.com/liuw086/SuperScreenPC/assets/9710022/2fed1c38-0575-448e-9819-d6f6f0037750)
+
 Key Features:
 1. VR Connection and Sharing:
     * Supports connection with SuperScreen applications on VR devices like Quest.
