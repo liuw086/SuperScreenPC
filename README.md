@@ -1,5 +1,6 @@
 # SuperScreen Computer Client
-![screenshot-20231227-150926](https://github.com/liuw086/SuperScreenPC/assets/9710022/2fed1c38-0575-448e-9819-d6f6f0037750)
+![screenshot-20240108-200205](https://github.com/liuw086/SuperScreenPC/assets/9710022/e4809430-0dfa-4d5a-b957-d62b6ca9a683)
+
 
 Key Features:
 1. VR Connection and Sharing:
